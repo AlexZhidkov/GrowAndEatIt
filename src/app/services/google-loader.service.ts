@@ -13,7 +13,7 @@ export class GoogleLoaderService {
 
   constructor() {
     this.loader = new Loader({
-      apiKey: "AIzaSyD1nR9zpcT5tOb0kbsLNAU-yLrhZwOZCio",
+      apiKey: "API-KEY",
       version: "weekly",
       libraries: ["places", "geocoding"]
     });
