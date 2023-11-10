@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "growandeatit": {
+      "hosting": {
+        "GrowAndEatIt": [
+          "growandeatit"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "growandeatit"
+  }
+}
